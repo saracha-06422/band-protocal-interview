@@ -13,6 +13,7 @@
 - วิธีการติดตั้ง
 - วิธีการรัน
 - วิธีการรัน test case (แนะนำ)
+- Transaction Broadcasting and Monitoring Client ข้อ 3
 
 
 ## วิธีการติดตั้ง
