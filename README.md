@@ -32,3 +32,11 @@ go run main.go
 cd problem
 go test
 ```
+## Transaction Broadcasting and Monitoring Client ข้อ 3
+
+```bash
+cd design
+```
+File: Transaction Broadcasting and Monitoring Client.drawio.pgn
+หรือ
+link: https://drive.google.com/file/d/1BlMlqGASGMN1Lmijb43uK5-zqugcq_hH/view?usp=sharing
